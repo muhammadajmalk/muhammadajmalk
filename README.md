@@ -2,7 +2,7 @@
 
 **Tech Lead & Senior Laravel Developer | 5+ years building SaaS at scale**
 
-🔭 **Currently:** PHP Developer @ **Microvision IT Solutions** — maintaining **Go2Sell** (Laravel Bagisto Multi-tenant Ecommerce) + Tech Lead on other projects
+🔭 **Currently:** PHP Developer @ **Microvision IT Solutions** — maintaining **Go2Sell** (Laravel Bagisto Multi-tenant Ecommerce) + Tech Lead on other products
 
 💡 **I Build:** Multi-tenant SaaS | POS & Inventory | WhatsApp Marketing | HR & Debt Collection Systems
 
@@ -26,11 +26,16 @@
 
 ### 📊 GitHub Stats
 
-![Ajmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadajmalk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadajmalk&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammadajmalk&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadajmalk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadajmalk&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadajmalk&color=blueviolet&style=flat)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=muhammadajmalk&theme=tokyonight&hide_border=true" height="150" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadajmalk&color=blueviolet&style=flat" />
 
 ---
 
