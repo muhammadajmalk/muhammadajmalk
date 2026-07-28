@@ -1,15 +1,18 @@
-### Hi, I'm Muhammad Ajmal 👋
-Tech Lead & Senior Laravel Developer | 5+ years building SaaS at scale
+Hi, I'm Muhammad Ajmal 👋
 
-**Currently:** PHP Developer @ Microvision IT Solutions — maintaining Go2Sell (Laravel Bagisto multi-tenant ecommerce)
+**Tech Lead & Senior Laravel Developer | 5+ years building SaaS that scales**
 
-**What I build:** Multi-tenant SaaS, POS, Inventory, WhatsApp Marketing, HR & Debt Collection SaaS
+🔭 Currently: Maintaining **Go2Sell** (Laravel Bagisto Multi-tenant Ecommerce) @ Microvision IT Solutions + Leading other products as Tech Lead
 
-**Stack:** `Laravel 12` `Vue 3` `Livewire 3` `Inertia.js` `MySQL` `Redis` `AWS` `Stripe` `WhatsApp Cloud API` `OpenAI/Claude`
+💡 I Build: Multi-tenant SaaS | POS & Inventory | WhatsApp Marketing | HR & Debt Collection Systems
 
-**Featured:** 
-- StockMaster Pro - Multi-tenant POS with RFID & AI forecasting
-- Wapply - WhatsApp Marketing SaaS
-- ALF POS - 10k+ active clients
+🛠️ **Tech:** Laravel 8-12, Vue 3, Livewire 3, Inertia.js, MySQL, Redis, AWS, Stripe, JazzCash/EasyPaisa, WhatsApp Cloud API, OpenAI / Claude AI
 
-📫 muhammadajmalkharal@gmail.com | 🌐 muhammad-ajmal.com | 💼 linkedin.com/in/muhammad-ajmal-kharl
+🚀 **Featured Work:**
+- **StockMaster Pro:** Multi-tenant POS with RFID/UHF & AI Demand Forecasting
+- **Wapply:** WhatsApp Marketing SaaS with Chatbot Builder
+- **ALF POS:** Scaled to 10k+ active clients, millions of daily transactions
+
+📊 143 contributions last year | 45 repositories
+
+📫 muhammadajmalkharal@gmail.com | 🌐 [muhammad-ajmal.com](https://muhammad-ajmal.com) | 💼 [LinkedIn](https://linkedin.com/in/muhammad-ajmal-kharl)
