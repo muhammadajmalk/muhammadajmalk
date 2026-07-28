@@ -2,14 +2,14 @@
 
 **Tech Lead & Senior Laravel Developer | 5+ years building SaaS at scale**
 
-🔭 **Currently:** PHP Developer @ **Microvision IT Solutions** — maintaining **Go2Sell** (Laravel Bagisto Multi-tenant Ecommerce) + Tech Lead on other products
+🔭 **Currently:** PHP Developer @ **Microvision IT Solutions** — maintaining **Go2Sell** (Laravel Bagisto Multi-tenant Ecommerce) + Tech Lead on other projects
 
 💡 **I Build:** Multi-tenant SaaS | POS & Inventory | WhatsApp Marketing | HR & Debt Collection Systems
 
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,js,mysql,redis,aws,nodejs,tailwind,bootstrap,git,docker)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=laravel,php,vue,js,mysql,redis,aws,nodejs,tailwind,bootstrap,git,docker)
 
 `Laravel 8-12` `Vue 3` `Inertia.js` `Livewire 3` `Alpine.js` `Tailwind CSS` `MySQL 8` `Redis` `AWS S3/SNS` `Stripe` `JazzCash` `EasyPaisa` `WhatsApp Cloud API` `OpenAI` `Claude AI` `Firebase` `Pusher`
 
