@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Muhammad Ajmal 👋
+Tech Lead & Senior Laravel Developer | 5+ years building SaaS at scale
 
-<!--
-**muhammadajmalk/muhammadajmalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently:** PHP Developer @ Microvision IT Solutions — maintaining Go2Sell (Laravel Bagisto multi-tenant ecommerce)
 
-Here are some ideas to get you started:
+**What I build:** Multi-tenant SaaS, POS, Inventory, WhatsApp Marketing, HR & Debt Collection SaaS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** `Laravel 12` `Vue 3` `Livewire 3` `Inertia.js` `MySQL` `Redis` `AWS` `Stripe` `WhatsApp Cloud API` `OpenAI/Claude`
+
+**Featured:** 
+- StockMaster Pro - Multi-tenant POS with RFID & AI forecasting
+- Wapply - WhatsApp Marketing SaaS
+- ALF POS - 10k+ active clients
+
+📫 muhammadajmalkharal@gmail.com | 🌐 muhammad-ajmal.com | 💼 linkedin.com/in/muhammad-ajmal-kharl
