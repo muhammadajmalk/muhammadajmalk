@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,js,mysql,redis,aws,nodejs,tailwind,bootstrap,git,docker)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,js,mysql,redis,aws,nodejs,tailwind,bootstrap,git,docker)](https://skillicons.dev)
 
 `Laravel 8-12` `Vue 3` `Inertia.js` `Livewire 3` `Alpine.js` `Tailwind CSS` `MySQL 8` `Redis` `AWS S3/SNS` `Stripe` `JazzCash` `EasyPaisa` `WhatsApp Cloud API` `OpenAI` `Claude AI` `Firebase` `Pusher`
 
@@ -27,10 +27,7 @@
 
 ### 📊 GitHub Stats
 
-![Ajmal's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammadajmalk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammadajmalk&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammadajmalk&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadajmalk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammadajmalk&color=blueviolet&style=flat)
 
