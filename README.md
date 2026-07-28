@@ -37,4 +37,4 @@
 
 📧 muhammadajmalkharal@gmail.com | 🌐 [muhammad-ajmal.com](https://muhammad-ajmal.com) | 💼 [LinkedIn](https://linkedin.com/in/muhammad-ajmal-kharl)
 
-**Open to:** Remote Roles | Karachi Onsite | Technical Lead / Senior Laravel Positions | 300k+ PKR / $1200+
+**Open to:** Remote Roles | Karachi Onsite | Technical Lead / Senior Laravel Positions
