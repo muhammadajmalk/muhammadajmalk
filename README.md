@@ -16,3 +16,6 @@ Hi, I'm Muhammad Ajmal 👋
 📊 143 contributions last year | 45 repositories
 
 📫 muhammadajmalkharal@gmail.com | 🌐 [muhammad-ajmal.com](https://muhammad-ajmal.com) | 💼 [LinkedIn](https://linkedin.com/in/muhammad-ajmal-kharl)
+![Ajmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadajmalk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadajmalk&layout=compact&theme=tokyonight&hide_border=true)
